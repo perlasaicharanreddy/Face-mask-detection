@@ -5,4 +5,4 @@ matplotlib>=1.4.3
 pandas>=0.19
 streamlit
 keras
-opencv==3.1
+opencv
