@@ -5,4 +5,5 @@ matplotlib>=1.4.3
 pandas>=0.19
 streamlit
 keras
-opencv
+opencv-python-headless==4.2.0.32
+
